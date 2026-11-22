@@ -1,0 +1,30 @@
+{
+  "clubs": {
+    "rows": 8,
+    "sha256": "ccfa7fd95ba408cd39da5b80d2dc34f97b1fc5170f4d6fbd9891ae072c4dd3d2"
+  },
+  "receivables": {
+    "rows": 216,
+    "sha256": "b71c858692f6b62d6cb35bdcb7aa164e8ba70419816cc5cb9eac02053d914f7e"
+  },
+  "obligations": {
+    "rows": 648,
+    "sha256": "d80eb08332bc9f69ae6dfb2ffa5a417d99b50bca6e45edc7eabdcf0d2354679b"
+  },
+  "payer_relations": {
+    "rows": 9,
+    "sha256": "b25f23f6158066763f73c916c13ac79180866ef8453c3e5cc2bd3b58e279a1b3"
+  },
+  "charter": {
+    "rows": 1,
+    "sha256": "fd2f39b92732bbcc1bf2d76aed3a443dc0ab7c9aba8a788179d6fd12b27dc99e"
+  },
+  "resolutions": {
+    "rows": 2,
+    "sha256": "dde9bd06894572588381ff6d57d74f30f3afa8a38e70718d8778cbeba61784d2"
+  },
+  "stress": {
+    "rows": 3,
+    "sha256": "e6177c73127ab34cf49cc8f2f74a9b4ff321cbfa98f9f42590899dd5f1b60ea1"
+  }
+}

@@ -1,0 +1,1 @@
+{"id":"fund","initial":4700,"replenishment":[[2026,6,1,900]],"priority":["payroll","entry","equipment"],"minimum_cover":{"payroll":1,"entry":0.8,"equipment":0},"return_on_receipt":true,"expiry":[2026,9,30]}

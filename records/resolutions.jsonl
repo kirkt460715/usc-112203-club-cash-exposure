@@ -1,0 +1,2 @@
+{"id":"R1","club":"C1","purpose":"payroll","due":[2026,4,20],"approved":[2026,3,30],"as_of":[2026,3,29],"amount":1250,"status":"paid","returned":0}
+{"id":"R2","club":"C2","purpose":"entry","due":[2026,5,22],"approved":[2026,4,10],"as_of":[2026,4,8],"amount":570,"status":"confirmed","returned":0}

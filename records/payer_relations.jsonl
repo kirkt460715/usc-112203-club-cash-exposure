@@ -1,0 +1,9 @@
+{"id":"L1","sponsor":"S1","payer_group":"G1","effective":[2024,1,1],"known":[2024,1,1]}
+{"id":"L2","sponsor":"S2","payer_group":"G2","effective":[2024,1,1],"known":[2024,1,1]}
+{"id":"L3","sponsor":"S3","payer_group":"G3","effective":[2024,1,1],"known":[2024,1,1]}
+{"id":"L4","sponsor":"S4","payer_group":"G4","effective":[2024,1,1],"known":[2024,1,1]}
+{"id":"L5","sponsor":"S5","payer_group":"G5","effective":[2024,1,1],"known":[2024,1,1]}
+{"id":"L6","sponsor":"S6","payer_group":null,"effective":[2024,1,1],"known":[2024,1,1]}
+{"id":"L7","sponsor":"S7","payer_group":"G7","effective":[2024,1,1],"known":[2024,1,1]}
+{"id":"L8","sponsor":"S8","payer_group":"G8","effective":[2024,1,1],"known":[2024,1,1]}
+{"id":"L3-R","supersedes":"L3","sponsor":"S3","payer_group":"G1","effective":[2026,1,1],"known":[2026,4,20]}

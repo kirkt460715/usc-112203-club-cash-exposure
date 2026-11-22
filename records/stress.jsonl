@@ -1,0 +1,3 @@
+{"id":"S-one","groups":["G1"],"delay_days":42}
+{"id":"S-all","groups":["G1","G2"],"delay_days":70}
+{"id":"S-unknown","groups":["G1"],"delay_days":60,"unlinked":["S6"]}
